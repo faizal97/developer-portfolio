@@ -22,7 +22,7 @@ export default function Home({ githubProfileData }) {
 					title: "Faizal Ardian Putra",
 					description:
 						"A Backend Developer having an experience of building Web APIs with PHP / Laravel.",
-					image: "https://media-exp1.licdn.com/dms/image/C5103AQGct3O3_f1eFw/profile-displayphoto-shrink_800_800/0/1581172039690?e=1640822400&v=beta&t=VrswMV_mrZFOp0_B2xoP4__GekoIzCijHbkOoSXMn74",
+					image: "https://avatars.githubusercontent.com/u/18088139?v=4",
 					url: "https://faizalardianputra.netlify.app/",
 					keywords: [
 						"Faizal",
