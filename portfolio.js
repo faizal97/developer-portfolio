@@ -169,7 +169,7 @@ export const projects = [
 	{
 		name: "Trutrip",
 		desc: "Created Trutrip Backend APIs to consumed by Frontend using Laravel",
-		link: "https://www.ahu.go.id/",
+		link: "https://app.trutrip.co/login",
 	},
 	{
 		name: "Covid Entry Check",
